@@ -1,0 +1,18 @@
+[
+  {
+    "verse": "John 1:1",
+    "english": "Word",
+    "greek": "λόγος",
+    "lemma": "λόγος",
+    "morphology": "Noun – Masculine, Singular, Nominative",
+    "gloss": "word, statement, message, reason"
+  },
+  {
+    "verse": "Ephesians 2:8",
+    "english": "grace",
+    "greek": "χάριτι",
+    "lemma": "χάρις",
+    "morphology": "Noun – Feminine, Singular, Dative",
+    "gloss": "grace, favor, kindness"
+  }
+]
